@@ -5,12 +5,12 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/amaria33/osTicket-Prerequisites-and-Installation))
   - [osTicket: Post-Installation Configuration](https://github.com/amaria33/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples] (https://github.com/amaria33/osTicket-Ticket-Lifecycle-Examples/tree/main)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/amaria33/osTicket-Ticket-Lifecycle-Examples/tree/main)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/amaria33/Configuring-Active-Directory-within-Azure-VMs/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/amaria33/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/tree/main)
 - <b>Command Prompt</b>
-  - [Creating a New Folder Using Command Prompt]([https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
+  - [Creating a New Folder Using Command Prompt](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
 
 <h2>🤳Connect with me:</h2>
 
