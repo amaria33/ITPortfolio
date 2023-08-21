@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 - <b>Command Prompt</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Creating a New Folder Using Command Prompt](https://github.com/amaria33/commandprompt)
 
 <h2>🤳Connect with me:</h2>
 
