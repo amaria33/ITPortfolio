@@ -1,9 +1,9 @@
-<h1>Hi, I'm Ashley, an <a href="https://linkedin.com/in/Ashley-Maria">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ashley, an <a href="https://linkedin.com/in/Ashley-Maria">IT Professional</a>☺</h1> <h2>This porition is currently on going project.</h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/amaria33/osTicket-Prerequisites-and-Installation))
+  - [osTicket: Prerequisites and Installation](https://github.com/amaria33/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/amaria33/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/amaria33/osTicket-Ticket-Lifecycle-Examples/tree/main)
 - <b>Microsoft Azure</b>
