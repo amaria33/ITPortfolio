@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashley, an <a href="https://linkedin.com/in/Ashley-Maria">IT Professional</a>☺</h1> <h2>This porition is currently on going project.</h2>
+<h1>Hi, I'm Ashley, an <a href="https://linkedin.com/in/Ashley-Maria">IT Professional</a>☺</h1> <h2>This is currently on going project.</h2>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
