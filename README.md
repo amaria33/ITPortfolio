@@ -11,6 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/amaria33/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/tree/main)
 - <b>Command Prompt</b>
   - [Creating a New Folder Using Command Prompt](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
+- <b>Cybersecurity </b>
+  - [SIEM & Honeynett](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
 
 <h2>🤳Connect with me:</h2>
 
