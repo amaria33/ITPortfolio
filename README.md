@@ -12,7 +12,7 @@
 - <b>Command Prompt</b>
   - [Creating a New Folder Using Command Prompt](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
 - <b>Cybersecurity </b>
-  - [SIEM & Honeynett](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
+  - [SIEM & Honeynet](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
 
 <h2>🤳Connect with me:</h2>
 
