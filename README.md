@@ -13,6 +13,8 @@
   - [Creating a New Folder Using Command Prompt](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
 - <b>Cybersecurity </b>
   - [SIEM & Honeynet](https://github.com/amaria33/SIEM-Honeynet)
+  - [Logging & Monitoring](https://github.com/amaria33/SIEM-Honeynet)
+  - [Microsoft Sentinel (SIEM)](https://github.com/amaria33/SIEM-Honeynet)
 
 <h2>🤳Connect with me:</h2>
 
