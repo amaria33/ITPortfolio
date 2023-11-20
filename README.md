@@ -10,7 +10,7 @@
   - [Configuring Entra ID (Active Directory) within Azure VMs](https://github.com/amaria33/Configuring-Active-Directory-within-Azure-VMs/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/amaria33/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/tree/main)
 - <b>Command Prompt</b>
-  - [Creating a New Folder Using Command Prompt](https://github.com/amaria33/)
+  - [Creating a New Folder Using Command Prompt]([https://github.com/amaria33/SIEM-Honeynet.git])
 - <b>Cybersecurity </b>
   - [SIEM & Honeynet](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
 
