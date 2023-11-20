@@ -14,7 +14,7 @@
 - <b>Cybersecurity </b>
   - [SIEM & Honeynet](https://github.com/amaria33/SIEM-Honeynet)
   - [Logging & Monitoring](https://github.com/amaria33/Logging-Monitoring)
-  - [Microsoft Sentinel (SIEM)](https://github.com/amaria33/SIEM-Honeynet)
+  - [Microsoft Sentinel (SIEM)](https://github.com/amaria33/Microsoft-Sentinel-SIEM-)
 
 <h2>🤳Connect with me:</h2>
 
