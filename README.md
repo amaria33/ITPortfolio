@@ -12,7 +12,7 @@
 - <b>Command Prompt</b>
   - [Creating a New Folder Using Command Prompt](https://github.com/amaria33/Creating-A-New-Folder-Using-Command-Prompt)
 - <b>Cybersecurity </b>
-  - [SIEM & Honeynet](https://github.com/amaria33/SIEM-Honeynet)
+  - [Building a SOC & Honeynet](https://github.com/amaria33/SIEM-Honeynet)
   - [Logging & Monitoring](https://github.com/amaria33/Logging-Monitoring)
   - [Microsoft Sentinel (SIEM)](https://github.com/amaria33/Microsoft-Sentinel-SIEM-)
 
